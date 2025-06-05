@@ -55,8 +55,8 @@ Conclusion
 This project helped me strengthen my Tableau skills, especially in parameter creation, calculated fields, and dashboard interactivity. I believe this dashboard could be a useful tool for sales managers or business analysts looking to monitor and compare regional sales performance.
 
 View My Live Dashboard:
-Regional Sales Comparison – Tableau Public
+Regional Sales Comparison – https://public.tableau.com/app/profile/roman.shrestha5221/viz/Tableau_Project_1_17491562330570/Dashboard1?publish=yes
+
 
 
 Thank you!
-https://public.tableau.com/app/profile/roman.shrestha5221/viz/Tableau_Project_1_17491562330570/Dashboard1?publish=yes
