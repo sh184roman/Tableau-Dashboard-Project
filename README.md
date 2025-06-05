@@ -59,4 +59,4 @@ Regional Sales Comparison – Tableau Public
 
 
 Thank you!
-![image](https://github.com/user-attachments/assets/bf397497-1995-457f-8196-5c96b0000919)
+https://public.tableau.com/app/profile/roman.shrestha5221/viz/Tableau_Project_1_17491562330570/Dashboard1?publish=yes
